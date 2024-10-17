@@ -1,12 +1,11 @@
 <?php
 /*
 Plugin Name: Current Time Shortcode
-Plugin URI:  https://example.com
+Plugin URI: https://torbenb.info/download/
 Description: Zeigt die aktuelle Uhrzeit in deutscher Schreibweise mit einem Shortcode [current_time] an.
-Version:     1.0
-Author:      Dein Name
-Author URI:  https://example.com
-License:     GPLv2 or later
+Version: 1.0
+Author: TorbenB
+Author URI: https://torbenb.info/
 */
 
 // Shortcode-Funktion, um die aktuelle Uhrzeit anzuzeigen
