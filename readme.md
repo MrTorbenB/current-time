@@ -1,13 +1,5 @@
 # Current Time Shortcode
 
-**Contributors:** Dein Name  
-**Tags:** time, shortcode, current time, date, german  
-**Requires at least:** 5.0  
-**Tested up to:** 6.3  
-**Stable tag:** 1.0  
-**License:** GPLv2 or later  
-**License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
-
 Ein einfaches WordPress-Plugin, das die aktuelle Uhrzeit in deutscher Schreibweise anzeigt. Verwende den Shortcode `[current_time]`, um die Uhrzeit im 24-Stunden- oder anderen Formaten auf deiner Website anzuzeigen.
 
 ## Beschreibung
